@@ -41,15 +41,6 @@ func main() {
 	err = json.Unmarshal([]byte(data), &encArr)
 	check(err)
 
-	/*
-			f, err := os.Create("test.txt")
-		    if err != nil {
-		        fmt.Println(err)
-		        return
-		  }
-
-	*/
-
 	if _, err := os.Stat(outputFile); err == nil {
 		fmt.Println("Output File Exists in directory, File will be replaced.")
 		err = os.Remove(outputFile)
