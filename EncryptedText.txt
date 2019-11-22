@@ -1,0 +1,59 @@
+SET #example: (
+enc inputs:
+    [
+        "kh4pOGsXY1cWiLsePjrpdbS9ZED7NKbzBiQ8GX9VrBg=",
+        "sRzq2do3ANdxLaDvDO31FoHYPNnCBemJiwzxgrkhY7k=",
+        "BUm/oY3Pi7yh2igwLTjSOp7B8rOQn68XMeGalLAUFeJs6TNktPqJRHNCKxsxPisMzBFz+DZteeJNF2xSIBor45RxS3mlnj9qkAd96mTHIZs=",
+        "YyOH1fhlqrh38bnsabQXNsRw0hcMQzxmwkAOArX78tY=",
+        "1ma/R67aAv5/a1RhKZfwhpFingaREa/lkGAV4PRXI/lZPLLQ3pGSoDGLz5xRRxZ+YhhTKelWd5RXGf4PVE/uOQ=="
+    ],
+    obfuscated password: 9zYgxeCUD6zZ3Jaa
+)
+
+--------------- THIS IS A LINE SEPARATOR ---------------
+
+SET #1: (
+    enc inputs:
+    [
+        "I/IoLSTjr3/cepFD8nTMAHjOhhVLWUGHkXkUsW1P4EgSFu1Kbpo+fOLUDrzzFb1B33gF0nf0Hn6Kzitre/qHH4m1KWdUCzIoFeSNApJWJ80=",
+        "vLmgf3JImSfk9ynRi1yz7MFBEDEpMNxhi47jnv45nn8=",
+        "g8Pv0McPJYA6A2iklZp9iBsujIfemFCIFpsGOt25zbA=",
+        "6HULwizt/weuMyd7d+PFXy6fHDXRgGeWcH3cYnPiHAGpPp5KZifEBsdzYLr67JkIxBbARJx52FQFw59A0XPxWA==",
+        "0h7Yu1ktBPjnZvKJdwvV2zQDPW0zf1PAXcWC71vVKSc=",
+        "h7Z63AhVGS/KjB0oAWT2/PcnFLt1mtBPPVjU/bVVmGM=",
+        "alZb3Mn4pQdYtOzvxAzv+mErJSO+GHUsLfOs0PPwNZg="
+    ],
+    obfuscated password: 7rEGh5aFr2xuSTtz
+)
+ 
+--------------- THIS IS A LINE SEPARATOR ---------------
+ 
+SET #2: (
+    enc inputs:
+    [
+        "C45IYRCbKZ20UwAwHHU2iBsM6llHfXOJ0CHgCr3eCKg=",
+        "Cu4Qqya42PxdFSLaGekRZjnBk0VsikxaoLpQuQqaCU98wt+NjjFXJ52nQvacJjhvZN3Y2v85x2pipheOjapZgQ==",
+        "Vo5YzswAtPnBz0cjG/b0Z1phh+R4w/klJ8cmpBZpo/A=",
+        "E2weUbXJGUa0ElVq9PdSZBPipq1A/gXFnt7pGzcmB4g=",
+        "cs1a2aVoYqTPxKziTlyDPXFmv0S1rQdpmooPaNi7qg4=",
+        "jEqJMAnjvijyPYQkTR7mMcIIjdR0AoSEzigmodXTxX8="
+    ],
+    obfuscated password: gqvFKgRQV6mmuV4W
+)
+ 
+--------------- THIS IS A LINE SEPARATOR ---------------
+ 
+SET #3: (
+    enc inputs:
+    [
+        "yAjITXc1AY9bP7qrHsG4PQTRl/m/YMFNppUUwc8BR9kM9xAkfUqBMZLEAI0H+6g8VzY5IVlKhA+iu7FVfZ4zYw==",
+        "HTqadhLc6od/NG/usqG5UduS9sD5HuYpGVuP890aL2o=",
+        "QRoV/fTe2Ms4tr6jU8oCL5Pu94Eq9/0Bnd3nRHHeL3eE5sQONGrEtK4lB3tvKUzJjY3jfRnhs5ilKLoXsjMmxA==",
+        "U3BpeQBR8fYc60DvLh9qBKpw4xNYo1ko3UEB/UNhRa8=",
+        "rqHZxQdpnfN6XqppCvuMt5BfWN/eiVXnfmkUHNNVl68g9/QO5EU94zHzxtIn9blq",
+        "2/hFkUeA1LAcE1ZP3oZtl81Mow3Kgf8ia5ZGx6v3vlo=",
+        "PrQ3P4YgyGOjRcK0/Bz8r/cztr2T1ApYpmQ9wHFbgCA=",
+        "nUZmoNfedtqNAvwUpx8e9OHwoyeV9rBGv7OqoQzzDaY="
+    ]
+    obfuscated password: Nk8NmfQ7ew5UuN7x
+)

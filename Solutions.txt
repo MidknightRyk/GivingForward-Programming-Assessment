@@ -1,0 +1,16 @@
+Example Set:
+
+ [138 3152 555-268-5725 http://example.com/?r=gakjnv&utm_source=test https://cloudstuff.net/article/11-14-2019/news-article]
+
+Set 1:
+
+ [63 5827 (555)-111-2495 (555)-211-2645 555-123-2496 http://codernewz.com/tech/new-apps http://examplenews.net/newRead/market?utm_data=blah]
+
+Set 2:
+
+ [43 426 44031 555-491-4912 555-571-9256 https://newadsitethatyouhaventseen.com]
+
+Set 3:
+
+ [511 43690 183237626 554-000-0000 555-258-2941 devopsnewstuff.net/article/blogpost/1/ imRunningOutOfFakeURLS.org/what new.wowwhatisthiswebsite.com/news]
+
