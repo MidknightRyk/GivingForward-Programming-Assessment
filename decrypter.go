@@ -1,3 +1,7 @@
+// Code is written by Marishka Magness
+// For the purpose the GivingForward Programming Assessment
+// Last Edited 23 November 2019
+
 package main
 
 import (
